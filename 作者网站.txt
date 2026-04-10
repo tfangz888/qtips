@@ -1,2 +1,3 @@
 nick.psaris.com
+CEP: nick.psaris.com/presentation/high-performance-complex-event-processing/
 q-tips.net
